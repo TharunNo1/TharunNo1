@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi there, I'm Tharun Ganapathi 👋
 
 I'm a passionate software developer with a focus on **full-stack web development** and **cloud engineering**.
