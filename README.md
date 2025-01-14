@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**TharunNo1/TharunNo1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Tharun Ganapathi 👋
 
-Here are some ideas to get you started:
+I'm a passionate software developer with a focus on **full-stack web development** and **cloud engineering**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Technologies & Tools
+- **Frontend:** React, Angular
+- **Backend:** Node.js, Django, Flask
+- **Databases:** MongoDB, MySQL
+- **Cloud & DevOps:** AWS, GCP, Docker, Kubernetes
+- **Others:** Python, TypeScript
+
+
+### 📬 Let's Connect
+- LinkedIn: [Tharun LinkedIn](https://in.linkedin.com/in/tharun-ganapathi)
+- Email: tharunganapathi19@gmail.com
+
+Feel free to explore my repositories and reach out if you'd like to collaborate!
