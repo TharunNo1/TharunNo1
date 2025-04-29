@@ -1,13 +1,14 @@
 # Hi there, I'm Tharun Ganapathi 👋
 
-I'm a passionate software developer with a focus on **full-stack web development** and **cloud engineering**.
+I am passionate about achieving impactful business outcomes by leveraging a wide range of technologies.
+I thrive at the intersection of innovation, strategy, and technical excellence.
 
 ### 🛠 Technologies & Tools
 - **Frontend:** React, Angular
-- **Backend:** Node.js, Django, Flask
+- **Backend:** Django, Flask, SpringBoot
 - **Databases:** MongoDB, MySQL
-- **Cloud & DevOps:** AWS, GCP, Docker, Kubernetes
-- **Others:** Python, TypeScript
+- **Tools:** PEGA, Splunk, Autosys
+- **Others:** Python, TypeScript, Java, JavaScript
 
 
 ### 📬 Let's Connect
